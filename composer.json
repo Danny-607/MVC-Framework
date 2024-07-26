@@ -2,7 +2,7 @@
     "name": "lxst/mvc-framework",
     "autoload": {
         "psr-4": {
-            "Lxst\\MvcFramework\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
