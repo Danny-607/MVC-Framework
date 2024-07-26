@@ -1,0 +1,15 @@
+{
+    "name": "lxst/mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "Lxst\\MvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danny-607",
+            "email": "danielhudson1294@gmail.com"
+        }
+    ],
+    "require": {}
+}
